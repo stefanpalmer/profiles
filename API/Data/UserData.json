@@ -1,0 +1,87 @@
+[
+    {
+        "UserName": "Rosa",
+        "DateOfBirth": "1984-11-03",
+        "Created": "2022-11-20",
+        "LastActive": "2022-12-06",
+        "Gender": "Female",
+        "Introduction":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Interests": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "City": "Quito",
+        "Country": "Ecuador",
+        "Photos": [
+            {
+                "Url": "./Photos/profile1.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "Alfred",
+        "DateOfBirth": "1997-03-17",
+        "Created": "2022-11-25",
+        "LastActive": "2022-12-05",
+        "Gender": "Male",
+        "Introduction":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Interests": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "City": "Dublin",
+        "Country": "Ireland",
+        "Photos": [
+            {
+                "Url": "./Photos/profile2.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "Liam",
+        "DateOfBirth": "2001-07-24",
+        "Created": "2022-11-15",
+        "LastActive": "2022-12-07",
+        "Gender": "Male",
+        "Introduction":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Interests": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "City": "Valletta",
+        "Country": "Malta",
+        "Photos": [
+            {
+                "Url": "./Photos/profile3.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "Efia",
+        "DateOfBirth": "1996-04-30",
+        "Created": "2022-11-17",
+        "LastActive": "2022-12-05",
+        "Gender": "Female",
+        "Introduction":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Interests": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "City": "Accra",
+        "Country": "Ghana",
+        "Photos": [
+            {
+                "Url": "./Photos/profile4.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "Mika",
+        "DateOfBirth": "1980-01-28",
+        "Created": "2022-11-21",
+        "LastActive": "2022-12-04",
+        "Gender": "Male",
+        "Introduction":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Interests": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "City": "Helsinki",
+        "Country": "Finland",
+        "Photos": [
+            {
+                "Url": "./Photos/profile5.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+]
