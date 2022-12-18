@@ -1,6 +1,4 @@
 using API.Entities;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
 

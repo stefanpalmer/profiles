@@ -1,7 +1,4 @@
-﻿using System;
-using API.Entities;
-
-namespace API.DTOs
+﻿namespace API.DTOs
 {
 	public class MemberDto
 	{
